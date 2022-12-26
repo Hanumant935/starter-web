@@ -12,6 +12,6 @@ Sample website with plenty of files for demos
 This is simple analytical project deploymet may be on the Tableau Server as well as Client website. 
 
 ## How To Contribute
-
+Please fork this repository and then issue pull request for review.
 ## Copyright
 Copyright 2014 Git Training
