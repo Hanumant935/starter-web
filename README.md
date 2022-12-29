@@ -2,6 +2,7 @@
 
 This is simple project showing use of repository for how to use Git and GitHub work.
 Adding a line for rebasing example, then more changes  from myfeature branch too.
+Updating for Emergency fix after stashing.
 
 ## Introduction
 Hi Myself Hanumant kale Patil, I am data analyst. Also learning Python and Pyspark.
